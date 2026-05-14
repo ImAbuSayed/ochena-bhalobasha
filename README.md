@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ochena-bhalobasha/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Ochena Bhalobasha](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ochena-bhalobasha/) |
+| **Get License** | [Music Rights & Licensing for Ochena Bhalobasha](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ochena-bhalobasha/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচেনা এই আঁধারে শুধু তোমারই আবেশ
+> অবুঝ এ নেশায় খোঁজে আমার পরিবেশ
+> অদেখা এই মায়াতে আজ পুড়ছে আমার প্রাণ
+> নিঃশব্দ এই রাতের বুকে ভাসে কত গান
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
