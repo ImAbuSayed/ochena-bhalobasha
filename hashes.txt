@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ochena Bhalobasha
+
+This log tracks the cryptographic history and versioning for the song **Ochena Bhalobasha** (ochena-bhalobasha).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-14T20:17:12.305881 | `v1` | `8961e392004cd835a7402c0fd97b872048e163f3b599a0256e011ca8a129f9f4` | `bd068ca4a1e8c8302126931797fe3780dc369867109836aa32c67aa3a41e8748` | `2026-05-14_ochena-bhalobasha-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
